@@ -1,0 +1,3 @@
+/Users/charliejones/Projects/Github/HotelKashyyk-CharlieJones/cmake-build-debug/CMakeFiles/HotelKashyyk-CharlieJones.dir
+/Users/charliejones/Projects/Github/HotelKashyyk-CharlieJones/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charliejones/Projects/Github/HotelKashyyk-CharlieJones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
