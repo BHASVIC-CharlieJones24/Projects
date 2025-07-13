@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
+  <diagram name="Page-1" id="k8HVUwOzRo4_6BcJMVOy">
+    <mxGraphModel dx="1384" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-5" value="&lt;font&gt;Select your playing piece&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="435" y="190" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-12" target="DzRHwn6-K2XAgFEjyatm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-12" target="DzRHwn6-K2XAgFEjyatm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-12" value="&lt;font&gt;Check if valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="435" y="310" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-14" target="DzRHwn6-K2XAgFEjyatm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-14" value="&lt;font&gt;Enter your name&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="435" y="430" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-17" value="Add/ decrease money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-21" value="If money &amp;lt;= 0" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="435" y="610" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-24" target="DzRHwn6-K2XAgFEjyatm-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-24" value="&quot;You have run out of money and lost&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-26" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-28" target="DzRHwn6-K2XAgFEjyatm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-28" value="If&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;final&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;player&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;= true&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzRHwn6-K2XAgFEjyatm-32" target="DzRHwn6-K2XAgFEjyatm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzRHwn6-K2XAgFEjyatm-32" value="&quot;You have won&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
